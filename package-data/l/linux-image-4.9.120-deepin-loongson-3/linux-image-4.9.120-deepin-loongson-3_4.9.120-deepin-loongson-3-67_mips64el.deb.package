@@ -1,0 +1,21 @@
+Package: linux-image-4.9.120-deepin-loongson-3
+Architecture: mips64el
+Version: 4.9.120-deepin-loongson-3-67
+Priority: optional
+Section: kernel
+Source: linux-4.9.120-deepin-loongson-3
+Maintainer: Anonymous <root@localhost>
+Installed-Size: 51625
+Provides: linux-image, linux-image-2.6, linux-modules-4.9.120-deepin-loongson-3
+Suggests: linux-firmware-image-4.9.120-deepin-loongson-3
+Filename: ./l/linux-image-4.9.120-deepin-loongson-3/linux-image-4.9.120-deepin-loongson-3_4.9.120-deepin-loongson-3-67_mips64el.deb
+Size: 14942852
+MD5sum: 45f4c2a058e27d4a6270eb2560cc2e5f
+SHA1: a2bc7dbf9ceee8e68b18920813b54cb419657ffa
+SHA256: 83796344d5ad1dbf21d422635de06f18b80fac83329a3c6818c14859c8d0f773
+SHA512: 23c2857d06bfa137412c6cf7a6ac925de13d96a904ff46e64a62f4c15bf2f1bca83d88f64877b474ac5c8c863300aa9c4aad79d7304f55161641cb2166f23afb
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.9.120-deepin-loongson-3
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.9.120-deepin-loongson-3.
+

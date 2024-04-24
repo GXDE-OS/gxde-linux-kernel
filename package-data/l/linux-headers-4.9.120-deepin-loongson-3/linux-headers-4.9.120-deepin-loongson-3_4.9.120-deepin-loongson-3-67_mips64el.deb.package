@@ -1,0 +1,21 @@
+Package: linux-headers-4.9.120-deepin-loongson-3
+Architecture: mips64el
+Version: 4.9.120-deepin-loongson-3-67
+Priority: optional
+Section: kernel
+Source: linux-4.9.120-deepin-loongson-3
+Maintainer: Anonymous <root@localhost>
+Installed-Size: 71511
+Provides: linux-headers, linux-headers-2.6
+Filename: ./l/linux-headers-4.9.120-deepin-loongson-3/linux-headers-4.9.120-deepin-loongson-3_4.9.120-deepin-loongson-3-67_mips64el.deb
+Size: 10417166
+MD5sum: ec98740cba3fc0f5d497e6a771541cac
+SHA1: aec98568657d64bfe2a8a8a5d11368a6a74207ca
+SHA256: dec02507ac36caf85963fc540662c10963055f5df345095155f299eae7803b32
+SHA512: c4816b1da6a976bb85768566f11dbe7d2adeb03ac9f9adf79742a48dfbda6bd1ddbf1ca264bc9af07abed26c8631348055a2ce432c8195001c89e1ec9871f879
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.9.120-deepin-loongson-3 on mips64el
+ This package provides kernel header files for 4.9.120-deepin-loongson-3 on mips64el
+ .
+ This is useful for people who need to build external modules
+

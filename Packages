@@ -135,6 +135,25 @@ Description: Header files for Linux loong64 configuration (meta-package)
  This package depends on the architecture-specific header files for the
  latest Linux kernel amd64 configuration.
 
+Package: linux-image-5.4.50-amd64-desktop
+Architecture: amd64
+Version: 5.4.50-amd64-desktop-74
+Priority: optional
+Section: kernel
+Source: linux-5.4.50-amd64-desktop
+Maintainer: Zhang Yueqian <zhangyueqian@deepin.com>
+Installed-Size: 261294
+Filename: ./l/linux-image-5.4.50-amd64-desktop/linux-image-5.4.50-amd64-desktop_5.4.50-amd64-desktop-74_amd64.deb
+Size: 61135560
+MD5sum: e3414164b640afc7ca50447e0325a90f
+SHA1: b922b988cc89b3634495a0d93e9f6087861f4a19
+SHA256: db273114ec085b34af8dd396d7c6f3df77cc73a7f782dadd6e3721b6a39ae583
+SHA512: dccabe83cea1d3f0f9a4852b374635b95fbc5698b9253d53a6cf493873e61fce89eb5a2013f9ff5acbe51671df33b8ee5fe26c8426ef5182dd25441537764885
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 5.4.50-amd64-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.4.50-amd64-desktop.
+
 Package: linux-image-5.15.77-amd64-desktop
 Architecture: amd64
 Version: 5.15.77-amd64-desktop-1
@@ -210,6 +229,27 @@ SHA512: 63ba6750d1701de287db5f5f52829a3d9eb4533cac60d2af557d7746cd13a45de18d4723
 Homepage: https://www.kernel.org/
 Description: Linux kernel headers for 6.9.0-rc4-loong64-desktop on loong64
  This package provides kernel header files for 6.9.0-rc4-loong64-desktop on loong64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-4.9.120-deepin-loongson-3
+Architecture: mips64el
+Version: 4.9.120-deepin-loongson-3-67
+Priority: optional
+Section: kernel
+Source: linux-4.9.120-deepin-loongson-3
+Maintainer: Anonymous <root@localhost>
+Installed-Size: 71511
+Provides: linux-headers, linux-headers-2.6
+Filename: ./l/linux-headers-4.9.120-deepin-loongson-3/linux-headers-4.9.120-deepin-loongson-3_4.9.120-deepin-loongson-3-67_mips64el.deb
+Size: 10417166
+MD5sum: ec98740cba3fc0f5d497e6a771541cac
+SHA1: aec98568657d64bfe2a8a8a5d11368a6a74207ca
+SHA256: dec02507ac36caf85963fc540662c10963055f5df345095155f299eae7803b32
+SHA512: c4816b1da6a976bb85768566f11dbe7d2adeb03ac9f9adf79742a48dfbda6bd1ddbf1ca264bc9af07abed26c8631348055a2ce432c8195001c89e1ec9871f879
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.9.120-deepin-loongson-3 on mips64el
+ This package provides kernel header files for 4.9.120-deepin-loongson-3 on mips64el
  .
  This is useful for people who need to build external modules
 
@@ -336,6 +376,27 @@ Description: Linux kernel headers for 6.1.32-amd64-desktop-hwe on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-image-4.9.120-deepin-loongson-3
+Architecture: mips64el
+Version: 4.9.120-deepin-loongson-3-67
+Priority: optional
+Section: kernel
+Source: linux-4.9.120-deepin-loongson-3
+Maintainer: Anonymous <root@localhost>
+Installed-Size: 51625
+Provides: linux-image, linux-image-2.6, linux-modules-4.9.120-deepin-loongson-3
+Suggests: linux-firmware-image-4.9.120-deepin-loongson-3
+Filename: ./l/linux-image-4.9.120-deepin-loongson-3/linux-image-4.9.120-deepin-loongson-3_4.9.120-deepin-loongson-3-67_mips64el.deb
+Size: 14942852
+MD5sum: 45f4c2a058e27d4a6270eb2560cc2e5f
+SHA1: a2bc7dbf9ceee8e68b18920813b54cb419657ffa
+SHA256: 83796344d5ad1dbf21d422635de06f18b80fac83329a3c6818c14859c8d0f773
+SHA512: 23c2857d06bfa137412c6cf7a6ac925de13d96a904ff46e64a62f4c15bf2f1bca83d88f64877b474ac5c8c863300aa9c4aad79d7304f55161641cb2166f23afb
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.9.120-deepin-loongson-3
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.9.120-deepin-loongson-3.
+
 Package: linux-image-6.9.0-rc1-loong64-desktop
 Architecture: loong64
 Version: 6.9.0-rc1-g1312211bb757-2
@@ -354,6 +415,26 @@ Homepage: https://www.kernel.org/
 Description: Linux kernel, version 6.9.0-rc1-loong64-desktop
  This package contains the Linux kernel, modules and corresponding other
  files, version: 6.9.0-rc1-loong64-desktop.
+
+Package: linux-headers-5.4.50-amd64-desktop
+Architecture: amd64
+Version: 5.4.50-amd64-desktop-74
+Priority: optional
+Section: kernel
+Source: linux-5.4.50-amd64-desktop
+Maintainer: Zhang Yueqian <zhangyueqian@deepin.com>
+Installed-Size: 77846
+Filename: ./l/linux-headers-5.4.50-amd64-desktop/linux-headers-5.4.50-amd64-desktop_5.4.50-amd64-desktop-74_amd64.deb
+Size: 11689800
+MD5sum: 9a28c2d0de275c3fa99bd94ba0e2fb7e
+SHA1: a1491cdfbd3d7ec9f67d9f45a003a5854094ef30
+SHA256: 1f35a9fc0da22573b3a18ceb2621c67f51d865bb94c16af462f771433ba3f18e
+SHA512: 6d3752001ef5f1b43cf51c21cb51a400f4ac1d98a6f6bf4d615d90417ea77ffe8a9f7ef7462c015396759e2f59398e4392f66bd51e5931a40f4e246811b887a0
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 5.4.50-amd64-desktop on amd64
+ This package provides kernel header files for 5.4.50-amd64-desktop on amd64
+ .
+ This is useful for people who need to build external modules
 
 Package: linux-image-6.6.25-amd64-desktop-hwe
 Architecture: amd64

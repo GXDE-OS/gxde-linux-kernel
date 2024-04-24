@@ -1,0 +1,19 @@
+Package: linux-image-5.4.50-amd64-desktop
+Architecture: amd64
+Version: 5.4.50-amd64-desktop-74
+Priority: optional
+Section: kernel
+Source: linux-5.4.50-amd64-desktop
+Maintainer: Zhang Yueqian <zhangyueqian@deepin.com>
+Installed-Size: 261294
+Filename: ./l/linux-image-5.4.50-amd64-desktop/linux-image-5.4.50-amd64-desktop_5.4.50-amd64-desktop-74_amd64.deb
+Size: 61135560
+MD5sum: e3414164b640afc7ca50447e0325a90f
+SHA1: b922b988cc89b3634495a0d93e9f6087861f4a19
+SHA256: db273114ec085b34af8dd396d7c6f3df77cc73a7f782dadd6e3721b6a39ae583
+SHA512: dccabe83cea1d3f0f9a4852b374635b95fbc5698b9253d53a6cf493873e61fce89eb5a2013f9ff5acbe51671df33b8ee5fe26c8426ef5182dd25441537764885
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 5.4.50-amd64-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.4.50-amd64-desktop.
+

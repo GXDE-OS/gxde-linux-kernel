@@ -1,0 +1,20 @@
+Package: linux-headers-5.4.50-amd64-desktop
+Architecture: amd64
+Version: 5.4.50-amd64-desktop-74
+Priority: optional
+Section: kernel
+Source: linux-5.4.50-amd64-desktop
+Maintainer: Zhang Yueqian <zhangyueqian@deepin.com>
+Installed-Size: 77846
+Filename: ./l/linux-headers-5.4.50-amd64-desktop/linux-headers-5.4.50-amd64-desktop_5.4.50-amd64-desktop-74_amd64.deb
+Size: 11689800
+MD5sum: 9a28c2d0de275c3fa99bd94ba0e2fb7e
+SHA1: a1491cdfbd3d7ec9f67d9f45a003a5854094ef30
+SHA256: 1f35a9fc0da22573b3a18ceb2621c67f51d865bb94c16af462f771433ba3f18e
+SHA512: 6d3752001ef5f1b43cf51c21cb51a400f4ac1d98a6f6bf4d615d90417ea77ffe8a9f7ef7462c015396759e2f59398e4392f66bd51e5931a40f4e246811b887a0
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 5.4.50-amd64-desktop on amd64
+ This package provides kernel header files for 5.4.50-amd64-desktop on amd64
+ .
+ This is useful for people who need to build external modules
+

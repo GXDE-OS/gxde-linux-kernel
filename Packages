@@ -135,6 +135,27 @@ Description: Header files for Linux loong64 configuration (meta-package)
  This package depends on the architecture-specific header files for the
  latest Linux kernel amd64 configuration.
 
+Package: linux-headers-4.4.32-deepin-loongson-3-generic
+Architecture: mips64el
+Version: 4.4.32-deepin-loongson-3-generic-1754
+Priority: optional
+Section: kernel
+Source: linux-4.4.32-deepin-loongson-3-generic
+Maintainer: Anonymous <root@localhost>
+Installed-Size: 50890
+Provides: linux-headers, linux-headers-2.6
+Filename: ./l/linux-headers-4.4.32-deepin-loongson-3-generic/linux-headers-4.4.32-deepin-loongson-3-generic_4.4.32-deepin-loongson-3-generic-1754_mips64el.deb
+Size: 7629022
+MD5sum: 4a65d0e3c0b70d832e2073beeada4713
+SHA1: a6f0847e5a75ece3d5b92ac9590d288fcbb8fcda
+SHA256: 8eb5b23e19e20841b7f312cd105626a849f9470ca316c2be1d42b1df89ec0791
+SHA512: 74c19f133ff17e138ff29dc15cff6f4ea0a21f0bc1841f3fbe37342590090f17fd44ff9ca6cad0132e017bb0cbd4bf45c7210bd8244eab2a81077c5c9023f442
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.32-deepin-loongson-3-generic on mips64el
+ This package provides kernel header files for 4.4.32-deepin-loongson-3-generic on mips64el
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-image-5.4.50-amd64-desktop
 Architecture: amd64
 Version: 5.4.50-amd64-desktop-74
@@ -153,6 +174,27 @@ Homepage: http://www.kernel.org/
 Description: Linux kernel, version 5.4.50-amd64-desktop
  This package contains the Linux kernel, modules and corresponding other
  files, version: 5.4.50-amd64-desktop.
+
+Package: linux-image-4.4.32-deepin-loongson-3-generic
+Architecture: mips64el
+Version: 4.4.32-deepin-loongson-3-generic-1754
+Priority: optional
+Section: kernel
+Source: linux-4.4.32-deepin-loongson-3-generic
+Maintainer: Anonymous <root@localhost>
+Installed-Size: 105240
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.32-deepin-loongson-3-generic
+Suggests: linux-firmware-image-4.4.32-deepin-loongson-3-generic
+Filename: ./l/linux-image-4.4.32-deepin-loongson-3-generic/linux-image-4.4.32-deepin-loongson-3-generic_4.4.32-deepin-loongson-3-generic-1754_mips64el.deb
+Size: 22470656
+MD5sum: bab584ff029eca4b60163b1bf4515305
+SHA1: 222275ed78406560214a8f5b439a715418189741
+SHA256: 1a3964cb843dfa2cba50cd3720d60e1478ce2131451b072916e29792b0812b35
+SHA512: 0efe039590b3a6c734967f7ed2ea948c71ac4fc1ba682b7f463bc9494448fc49842f692938fc752fbf143d7873784308a20adb9c483d27f9b06ebf147a9c8602
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.32-deepin-loongson-3-generic
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.32-deepin-loongson-3-generic.
 
 Package: linux-image-5.15.77-amd64-desktop
 Architecture: amd64
@@ -355,6 +397,24 @@ Description: Linux kernel headers for 6.9.0-rc1-loong64-desktop on loong64
  This package provides kernel header files for 6.9.0-rc1-loong64-desktop on loong64
  .
  This is useful for people who need to build external modules
+
+Package: linux-firmware-image-4.4.32-deepin-loongson-3-generic
+Architecture: mips64el
+Version: 4.4.32-deepin-loongson-3-generic-106
+Priority: optional
+Section: kernel
+Source: linux-4.4.32-deepin-loongson-3-generic
+Maintainer: Anonymous <root@localhost>
+Installed-Size: 1214
+Filename: ./l/linux-firmware-image-4.4.32-deepin-loongson-3-generic/linux-firmware-image-4.4.32-deepin-loongson-3-generic_4.4.32-deepin-loongson-3-generic-106_mips64el.deb
+Size: 45467458
+MD5sum: b9582401310024c4d4ef2d47ad328bda
+SHA1: b3e095bc2f242dfb04ee4b4667705413a385989a
+SHA256: 3e54233bf42e3037a7805e9f0fe289c4348b98e846d1acd4e076a8740aa60035
+SHA512: 1cf3bee1801094be74e0cd7dbdd2b57ca61b2eea074335e334cf713ebeb98c0f7e2ec1ea1572fe62b44321cf2af4e1cccda2686f1a0a3c4b57104fdc605b98b9
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.4.32-deepin-loongson-3-generic
+ This package contains firmware from the Linux kernel, version 4.4.32-deepin-loongson-3-generic.
 
 Package: linux-headers-6.1.32-amd64-desktop-hwe
 Architecture: amd64

@@ -1,0 +1,21 @@
+Package: linux-image-4.4.32-deepin-loongson-3-generic
+Architecture: mips64el
+Version: 4.4.32-deepin-loongson-3-generic-1754
+Priority: optional
+Section: kernel
+Source: linux-4.4.32-deepin-loongson-3-generic
+Maintainer: Anonymous <root@localhost>
+Installed-Size: 105240
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.32-deepin-loongson-3-generic
+Suggests: linux-firmware-image-4.4.32-deepin-loongson-3-generic
+Filename: ./l/linux-image-4.4.32-deepin-loongson-3-generic/linux-image-4.4.32-deepin-loongson-3-generic_4.4.32-deepin-loongson-3-generic-1754_mips64el.deb
+Size: 22470656
+MD5sum: bab584ff029eca4b60163b1bf4515305
+SHA1: 222275ed78406560214a8f5b439a715418189741
+SHA256: 1a3964cb843dfa2cba50cd3720d60e1478ce2131451b072916e29792b0812b35
+SHA512: 0efe039590b3a6c734967f7ed2ea948c71ac4fc1ba682b7f463bc9494448fc49842f692938fc752fbf143d7873784308a20adb9c483d27f9b06ebf147a9c8602
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.32-deepin-loongson-3-generic
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.32-deepin-loongson-3-generic.
+

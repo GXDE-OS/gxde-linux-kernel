@@ -1,0 +1,18 @@
+Package: linux-firmware-image-4.4.32-deepin-loongson-3-generic
+Architecture: mips64el
+Version: 4.4.32-deepin-loongson-3-generic-106
+Priority: optional
+Section: kernel
+Source: linux-4.4.32-deepin-loongson-3-generic
+Maintainer: Anonymous <root@localhost>
+Installed-Size: 1214
+Filename: ./l/linux-firmware-image-4.4.32-deepin-loongson-3-generic/linux-firmware-image-4.4.32-deepin-loongson-3-generic_4.4.32-deepin-loongson-3-generic-106_mips64el.deb
+Size: 45467458
+MD5sum: b9582401310024c4d4ef2d47ad328bda
+SHA1: b3e095bc2f242dfb04ee4b4667705413a385989a
+SHA256: 3e54233bf42e3037a7805e9f0fe289c4348b98e846d1acd4e076a8740aa60035
+SHA512: 1cf3bee1801094be74e0cd7dbdd2b57ca61b2eea074335e334cf713ebeb98c0f7e2ec1ea1572fe62b44321cf2af4e1cccda2686f1a0a3c4b57104fdc605b98b9
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.4.32-deepin-loongson-3-generic
+ This package contains firmware from the Linux kernel, version 4.4.32-deepin-loongson-3-generic.
+

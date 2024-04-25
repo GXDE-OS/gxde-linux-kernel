@@ -1,0 +1,21 @@
+Package: linux-headers-4.4.32-deepin-loongson-3-generic
+Architecture: mips64el
+Version: 4.4.32-deepin-loongson-3-generic-1754
+Priority: optional
+Section: kernel
+Source: linux-4.4.32-deepin-loongson-3-generic
+Maintainer: Anonymous <root@localhost>
+Installed-Size: 50890
+Provides: linux-headers, linux-headers-2.6
+Filename: ./l/linux-headers-4.4.32-deepin-loongson-3-generic/linux-headers-4.4.32-deepin-loongson-3-generic_4.4.32-deepin-loongson-3-generic-1754_mips64el.deb
+Size: 7629022
+MD5sum: 4a65d0e3c0b70d832e2073beeada4713
+SHA1: a6f0847e5a75ece3d5b92ac9590d288fcbb8fcda
+SHA256: 8eb5b23e19e20841b7f312cd105626a849f9470ca316c2be1d42b1df89ec0791
+SHA512: 74c19f133ff17e138ff29dc15cff6f4ea0a21f0bc1841f3fbe37342590090f17fd44ff9ca6cad0132e017bb0cbd4bf45c7210bd8244eab2a81077c5c9023f442
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.32-deepin-loongson-3-generic on mips64el
+ This package provides kernel header files for 4.4.32-deepin-loongson-3-generic on mips64el
+ .
+ This is useful for people who need to build external modules
+

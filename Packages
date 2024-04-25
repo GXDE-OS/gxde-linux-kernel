@@ -315,6 +315,26 @@ Description: Linux kernel headers for 6.9.0-rc3-loong64-desktop on loong64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-5.10.0-arm64-desktop
+Architecture: arm64
+Version: 23.00.00.12-beta3
+Priority: optional
+Section: kernel
+Source: linux-5.10.0-arm64-desktop
+Maintainer: deepin <deepin@deepin-PC>
+Installed-Size: 49492
+Filename: ./l/linux-headers-5.10.0-arm64-desktop/linux-headers-5.10.0-arm64-desktop_23.00.00.12-beta3_arm64.deb
+Size: 7986548
+MD5sum: b85da35244c793dc3a023756a8595753
+SHA1: 61cc5e3f64d414d30e0e3e628674de6ddbb62165
+SHA256: 22e48b36103e18a5039bf31abe709d272ff02992c62373e93ca0185bedfe3db5
+SHA512: bb951fcfedd4661877bf38f9fe1bf5ff4134884ace60ab921048ef6d7529792474b444584ba48a977e40f71b65e5d046e928a8bd30636be03f759c93a1513e00
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 5.10.0-arm64-desktop on arm64
+ This package provides kernel header files for 5.10.0-arm64-desktop on arm64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-6.8.0-loong64-desktop
 Architecture: loong64
 Version: 6.8.0-gdf892e6bdb2c-2
@@ -571,6 +591,25 @@ Homepage: https://www.kernel.org/
 Description: Linux kernel, version 6.9.0-rc2-loong64-desktop
  This package contains the Linux kernel, modules and corresponding other
  files, version: 6.9.0-rc2-loong64-desktop.
+
+Package: linux-image-5.10.0-arm64-desktop
+Architecture: arm64
+Version: 23.00.00.12-beta3
+Priority: optional
+Section: kernel
+Source: linux-5.10.0-arm64-desktop
+Maintainer: deepin <deepin@deepin-PC>
+Installed-Size: 228212
+Filename: ./l/linux-image-5.10.0-arm64-desktop/linux-image-5.10.0-arm64-desktop_23.00.00.12-beta3_arm64.deb
+Size: 49483820
+MD5sum: 0c8c4c6a17b5a95f647364545d272b32
+SHA1: a4d378d6d64e1be391bc1297c71bb17a9b1dd378
+SHA256: cd958cde4066ccf37a18fb182d0c2d332ab3e9cc04420a3f98e33257bcc6837f
+SHA512: f2995a370c8ce62a57cd0ff4897c8bb4fe1616b6ae0df81fcd1928db6dcfa1d66ae5e31757e5c3b8d4df6ec39b4088882b548d9c91f839f61312da94f20ba7ae
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 5.10.0-arm64-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.0-arm64-desktop.
 
 Package: linux-image-6.8.0-loong64-desktop
 Architecture: loong64

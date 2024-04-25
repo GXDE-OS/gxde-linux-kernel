@@ -1,0 +1,20 @@
+Package: linux-headers-5.10.0-arm64-desktop
+Architecture: arm64
+Version: 23.00.00.12-beta3
+Priority: optional
+Section: kernel
+Source: linux-5.10.0-arm64-desktop
+Maintainer: deepin <deepin@deepin-PC>
+Installed-Size: 49492
+Filename: ./l/linux-headers-5.10.0-arm64-desktop/linux-headers-5.10.0-arm64-desktop_23.00.00.12-beta3_arm64.deb
+Size: 7986548
+MD5sum: b85da35244c793dc3a023756a8595753
+SHA1: 61cc5e3f64d414d30e0e3e628674de6ddbb62165
+SHA256: 22e48b36103e18a5039bf31abe709d272ff02992c62373e93ca0185bedfe3db5
+SHA512: bb951fcfedd4661877bf38f9fe1bf5ff4134884ace60ab921048ef6d7529792474b444584ba48a977e40f71b65e5d046e928a8bd30636be03f759c93a1513e00
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 5.10.0-arm64-desktop on arm64
+ This package provides kernel header files for 5.10.0-arm64-desktop on arm64
+ .
+ This is useful for people who need to build external modules
+

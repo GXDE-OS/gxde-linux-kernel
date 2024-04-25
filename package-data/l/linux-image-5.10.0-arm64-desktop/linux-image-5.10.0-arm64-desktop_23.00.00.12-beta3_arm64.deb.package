@@ -1,0 +1,19 @@
+Package: linux-image-5.10.0-arm64-desktop
+Architecture: arm64
+Version: 23.00.00.12-beta3
+Priority: optional
+Section: kernel
+Source: linux-5.10.0-arm64-desktop
+Maintainer: deepin <deepin@deepin-PC>
+Installed-Size: 228212
+Filename: ./l/linux-image-5.10.0-arm64-desktop/linux-image-5.10.0-arm64-desktop_23.00.00.12-beta3_arm64.deb
+Size: 49483820
+MD5sum: 0c8c4c6a17b5a95f647364545d272b32
+SHA1: a4d378d6d64e1be391bc1297c71bb17a9b1dd378
+SHA256: cd958cde4066ccf37a18fb182d0c2d332ab3e9cc04420a3f98e33257bcc6837f
+SHA512: f2995a370c8ce62a57cd0ff4897c8bb4fe1616b6ae0df81fcd1928db6dcfa1d66ae5e31757e5c3b8d4df6ec39b4088882b548d9c91f839f61312da94f20ba7ae
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 5.10.0-arm64-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.0-arm64-desktop.
+

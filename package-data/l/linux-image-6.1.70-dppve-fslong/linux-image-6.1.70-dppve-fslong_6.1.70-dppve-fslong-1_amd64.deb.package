@@ -1,0 +1,19 @@
+Package: linux-image-6.1.70-dppve-fslong
+Architecture: amd64
+Version: 6.1.70-dppve-fslong-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-hasee>
+Installed-Size: 405224
+Filename: ./l/linux-image-6.1.70-dppve-fslong/linux-image-6.1.70-dppve-fslong_6.1.70-dppve-fslong-1_amd64.deb
+Size: 77852152
+MD5sum: 415d732e7db0facbc1e7baa00bbe4f52
+SHA1: 109ec03000d81fab77201d132e57f2873e74b77a
+SHA256: 3ce8f44d3b61a14e2f0b22dac42213e2862d9c9bab05d2d63b532c802e76442e
+SHA512: 8c76f3cb45420c53edf71e19a5f7a15cae0983c5f35d24ff6145134c2c04bc011e92f073c478c1d7b4d7da3e57738c3c6c6df63375d962d4e96ed49d5c3dddca
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.1.70-dppve-fslong
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.1.70-dppve-fslong.
+

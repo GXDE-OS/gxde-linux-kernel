@@ -1,0 +1,20 @@
+Package: linux-headers-6.1.70-dppve-fslong
+Architecture: amd64
+Version: 6.1.70-dppve-fslong-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-hasee>
+Installed-Size: 53302
+Filename: ./l/linux-headers-6.1.70-dppve-fslong/linux-headers-6.1.70-dppve-fslong_6.1.70-dppve-fslong-1_amd64.deb
+Size: 9032684
+MD5sum: 912666aa90945452cc373e72d3397d8e
+SHA1: 87f1e389e5e338573cb452c17f94662ba69306e9
+SHA256: efdd330b97d41a414cec23314213d18316703ef4a3d4e315b5456ef684e5c607
+SHA512: 935c46ae9c1b551ff0419598091aaef843137b9135be6a35ff8fb90c348de7f78dcf1c85fd42365e459e3efd182309d2ea1c01956611c5a0770c4ca985c40040
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.1.70-dppve-fslong on amd64
+ This package provides kernel header files for 6.1.70-dppve-fslong on amd64
+ .
+ This is useful for people who need to build external modules
+

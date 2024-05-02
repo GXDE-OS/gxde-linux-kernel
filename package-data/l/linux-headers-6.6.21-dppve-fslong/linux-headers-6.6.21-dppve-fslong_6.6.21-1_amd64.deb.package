@@ -1,0 +1,20 @@
+Package: linux-headers-6.6.21-dppve-fslong
+Architecture: amd64
+Version: 6.6.21-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-wooking>
+Installed-Size: 55601
+Filename: ./l/linux-headers-6.6.21-dppve-fslong/linux-headers-6.6.21-dppve-fslong_6.6.21-1_amd64.deb
+Size: 9404044
+MD5sum: cdcde289f12eba1baf519f2e764925b9
+SHA1: b384ef9d088134c3ec00061783c3b1f586bf91b2
+SHA256: 48da61be8459281026f304655573b80e7cde77b4ae2f4c0f44f5de6bcb24c101
+SHA512: 8d397cb56a9e300502ce7921ff4806f5db48b82a2359a1c8f5fdd2b8e43151670397a67927e9bcb5c9195361b976a87a352e33ee4054507d32ab2a97ab917c42
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.6.21-dppve-fslong on amd64
+ This package provides kernel header files for 6.6.21-dppve-fslong on amd64
+ .
+ This is useful for people who need to build external modules
+

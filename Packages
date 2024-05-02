@@ -335,6 +335,25 @@ Description: Linux kernel headers for 6.8.7-dppve-fslong on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-image-6.6.21-dppve-fslong
+Architecture: amd64
+Version: 6.6.21-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-wooking>
+Installed-Size: 497856
+Filename: ./l/linux-image-6.6.21-dppve-fslong/linux-image-6.6.21-dppve-fslong_6.6.21-1_amd64.deb
+Size: 88379016
+MD5sum: 2d33045743e75c5d0e8e3e45ac5ce663
+SHA1: bd806f9b5fdbcf7f31d881e3b0ef79d15f45632b
+SHA256: 3176b1a59f70c3635e3582900b57073b7f054f228aa5ca5af24f8a691a9efb58
+SHA512: e51a8b8069cb21c21f97c6c0c1382936f348fbf03511f4c70bbe56b373a626a942db5cf242f9c95d4312a6b5e54d83456781af103d74ffb1afcbcb396af031e7
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.6.21-dppve-fslong
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.6.21-dppve-fslong.
+
 Package: linux-headers-5.10.0-arm64-desktop
 Architecture: arm64
 Version: 23.00.00.12-beta3
@@ -414,6 +433,25 @@ Description: Linux kernel headers for 6.6.25-amd64-desktop-hwe on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-image-6.1.70-dppve-fslong
+Architecture: amd64
+Version: 6.1.70-dppve-fslong-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-hasee>
+Installed-Size: 405224
+Filename: ./l/linux-image-6.1.70-dppve-fslong/linux-image-6.1.70-dppve-fslong_6.1.70-dppve-fslong-1_amd64.deb
+Size: 77852152
+MD5sum: 415d732e7db0facbc1e7baa00bbe4f52
+SHA1: 109ec03000d81fab77201d132e57f2873e74b77a
+SHA256: 3ce8f44d3b61a14e2f0b22dac42213e2862d9c9bab05d2d63b532c802e76442e
+SHA512: 8c76f3cb45420c53edf71e19a5f7a15cae0983c5f35d24ff6145134c2c04bc011e92f073c478c1d7b4d7da3e57738c3c6c6df63375d962d4e96ed49d5c3dddca
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.1.70-dppve-fslong
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.1.70-dppve-fslong.
+
 Package: linux-image-deepin-hwe-amd64
 Architecture: amd64
 Version: 6.6.25-hwe
@@ -454,6 +492,26 @@ SHA512: f420d3bcb435862e7f607668a331dfc09cc753019965a9e61d0064c3c3abc6f4920eb893
 Homepage: https://www.kernel.org/
 Description: Linux kernel headers for 6.9.0-rc1-loong64-desktop on loong64
  This package provides kernel header files for 6.9.0-rc1-loong64-desktop on loong64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-6.6.21-dppve-fslong
+Architecture: amd64
+Version: 6.6.21-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-wooking>
+Installed-Size: 55601
+Filename: ./l/linux-headers-6.6.21-dppve-fslong/linux-headers-6.6.21-dppve-fslong_6.6.21-1_amd64.deb
+Size: 9404044
+MD5sum: cdcde289f12eba1baf519f2e764925b9
+SHA1: b384ef9d088134c3ec00061783c3b1f586bf91b2
+SHA256: 48da61be8459281026f304655573b80e7cde77b4ae2f4c0f44f5de6bcb24c101
+SHA512: 8d397cb56a9e300502ce7921ff4806f5db48b82a2359a1c8f5fdd2b8e43151670397a67927e9bcb5c9195361b976a87a352e33ee4054507d32ab2a97ab917c42
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.6.21-dppve-fslong on amd64
+ This package provides kernel header files for 6.6.21-dppve-fslong on amd64
  .
  This is useful for people who need to build external modules
 
@@ -774,4 +832,24 @@ Description: Linux for 64-bit PCs (meta-package)
  .
  This kernel also runs on a Xen hypervisor.  It supports both privileged
  (dom0) and unprivileged (domU) operation.
+
+Package: linux-headers-6.1.70-dppve-fslong
+Architecture: amd64
+Version: 6.1.70-dppve-fslong-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-hasee>
+Installed-Size: 53302
+Filename: ./l/linux-headers-6.1.70-dppve-fslong/linux-headers-6.1.70-dppve-fslong_6.1.70-dppve-fslong-1_amd64.deb
+Size: 9032684
+MD5sum: 912666aa90945452cc373e72d3397d8e
+SHA1: 87f1e389e5e338573cb452c17f94662ba69306e9
+SHA256: efdd330b97d41a414cec23314213d18316703ef4a3d4e315b5456ef684e5c607
+SHA512: 935c46ae9c1b551ff0419598091aaef843137b9135be6a35ff8fb90c348de7f78dcf1c85fd42365e459e3efd182309d2ea1c01956611c5a0770c4ca985c40040
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.1.70-dppve-fslong on amd64
+ This package provides kernel header files for 6.1.70-dppve-fslong on amd64
+ .
+ This is useful for people who need to build external modules
 

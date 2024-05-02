@@ -1,0 +1,20 @@
+Package: linux-headers-6.8.7-dppve-fslong
+Architecture: amd64
+Version: 6.8.7-8
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-wooking.>
+Installed-Size: 54749
+Filename: ./l/linux-headers-6.8.7-dppve-fslong/linux-headers-6.8.7-dppve-fslong_6.8.7-8_amd64.deb
+Size: 9529192
+MD5sum: 84475915ebc5419dd608aacade355211
+SHA1: f9f5982415aeefe4ff0d7c4f607127fc5f90fce4
+SHA256: 5e41c8ae8cafc7e98ffea4b394f42d1c8dfe3a5999d228adaaa306797e3df374
+SHA512: 3cb3962c5b95c8fe6e07277aef5117bae3ef86192ce3d437a71e970602056235c5750f318cebef471b091e0c11e4be5e81a120af05ab94a70ddf9474748f25fa
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.8.7-dppve-fslong on amd64
+ This package provides kernel header files for 6.8.7-dppve-fslong on amd64
+ .
+ This is useful for people who need to build external modules
+

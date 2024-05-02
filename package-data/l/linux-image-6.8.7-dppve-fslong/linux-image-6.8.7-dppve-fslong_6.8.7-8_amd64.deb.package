@@ -1,0 +1,19 @@
+Package: linux-image-6.8.7-dppve-fslong
+Architecture: amd64
+Version: 6.8.7-8
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-wooking.>
+Installed-Size: 501815
+Filename: ./l/linux-image-6.8.7-dppve-fslong/linux-image-6.8.7-dppve-fslong_6.8.7-8_amd64.deb
+Size: 89396292
+MD5sum: 9677a8600b9c6b8e4e5e1e332cbf63c3
+SHA1: cc3d3dee74376aba5f94618bf2640079f7329bbd
+SHA256: e3e544aa6a94fbe87b4e2f9b941a63b1eb4a861d9a53cd0b49c51b769fafa512
+SHA512: a94dc5d59365ff31137b8dbd1625982847dec5049a1dbf64658073de11b50167b0fc4d2c9c55c04810f576466c22b04079cf0e498d7f1f17e0b5c86e1cc05b1d
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.8.7-dppve-fslong
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.8.7-dppve-fslong.
+

@@ -315,6 +315,26 @@ Description: Linux kernel headers for 6.9.0-rc3-loong64-desktop on loong64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-6.8.7-dppve-fslong
+Architecture: amd64
+Version: 6.8.7-8
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-wooking.>
+Installed-Size: 54749
+Filename: ./l/linux-headers-6.8.7-dppve-fslong/linux-headers-6.8.7-dppve-fslong_6.8.7-8_amd64.deb
+Size: 9529192
+MD5sum: 84475915ebc5419dd608aacade355211
+SHA1: f9f5982415aeefe4ff0d7c4f607127fc5f90fce4
+SHA256: 5e41c8ae8cafc7e98ffea4b394f42d1c8dfe3a5999d228adaaa306797e3df374
+SHA512: 3cb3962c5b95c8fe6e07277aef5117bae3ef86192ce3d437a71e970602056235c5750f318cebef471b091e0c11e4be5e81a120af05ab94a70ddf9474748f25fa
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.8.7-dppve-fslong on amd64
+ This package provides kernel header files for 6.8.7-dppve-fslong on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-5.10.0-arm64-desktop
 Architecture: arm64
 Version: 23.00.00.12-beta3
@@ -354,6 +374,25 @@ Description: Linux kernel headers for 6.8.0-loong64-desktop on loong64
  This package provides kernel header files for 6.8.0-loong64-desktop on loong64
  .
  This is useful for people who need to build external modules
+
+Package: linux-image-6.8.7-dppve-fslong
+Architecture: amd64
+Version: 6.8.7-8
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: fslong <fslong@fslong-wooking.>
+Installed-Size: 501815
+Filename: ./l/linux-image-6.8.7-dppve-fslong/linux-image-6.8.7-dppve-fslong_6.8.7-8_amd64.deb
+Size: 89396292
+MD5sum: 9677a8600b9c6b8e4e5e1e332cbf63c3
+SHA1: cc3d3dee74376aba5f94618bf2640079f7329bbd
+SHA256: e3e544aa6a94fbe87b4e2f9b941a63b1eb4a861d9a53cd0b49c51b769fafa512
+SHA512: a94dc5d59365ff31137b8dbd1625982847dec5049a1dbf64658073de11b50167b0fc4d2c9c55c04810f576466c22b04079cf0e498d7f1f17e0b5c86e1cc05b1d
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.8.7-dppve-fslong
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.8.7-dppve-fslong.
 
 Package: linux-headers-6.6.25-amd64-desktop-hwe
 Architecture: amd64

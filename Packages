@@ -1,3 +1,71 @@
+Package: gxde-kernel-manager
+Architecture: amd64
+Version: 1.0.0-1
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 211
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.0), libgl1, libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5)
+Filename: ./g/gxde-kernel-manager/gxde-kernel-manager_1.0.0-1_amd64.deb
+Size: 316852
+MD5sum: 2d6be8e92d1af845ed7b751d9a4fbe04
+SHA1: 5508c504457214f52b175032d367b09ae47ad706
+SHA256: 98d19b71fcb1fb6709f1a26bea4cad68756fda0e912aaa6d4a0046317f970b77
+SHA512: 8658150008cdee32c3a2f61f170cf5abde2624953aaf64c5ecdc489f33a0f34bda59ae99a980b02c9aec0731e0ddc978122d1c4afd1d8c76701ec1e053e32b8a
+Homepage: https://gitee.com/GXDE-OS/gxde-kernel-manager
+Description: GXDE 内核管理器
+
+Package: gxde-kernel-manager
+Architecture: loong64
+Version: 1.0.0-1
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 223
+Depends: libc6 (>= 2.37), libgcc-s1 (>= 3.0), libgl1, libqt5core5a (>= 5.7.0), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libqtermwidget5-0 (>= 0.8.0), libstdc++6 (>= 5)
+Filename: ./g/gxde-kernel-manager/gxde-kernel-manager_1.0.0-1_loong64.deb
+Size: 55656
+MD5sum: d8cb1a144e9311197f386a7481d605eb
+SHA1: 1dffdcfd20fe8a246feb3bcf0603cde9bb1c0a5c
+SHA256: 8c45a8183e20b85d3fdd50527da4c52ca429cb70d3f66860cc22a180e9bd102d
+SHA512: 0a8ec02584aa284ed7c01dcd255ed911ea21151303c1308aa37fb1e575958020b5201530e0625cc71bd252e81ca6f67b3bb804b3c763c9d7636ef3862a47d6e3
+Homepage: https://gitee.com/GXDE-OS/gxde-kernel-manager
+Description: GXDE 内核管理器
+
+Package: gxde-kernel-manager
+Architecture: mips64el
+Version: 1.0.0-1
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 260
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.7.0), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libqtermwidget5-1 (>= 1.2.0), libstdc++6 (>= 5)
+Filename: ./g/gxde-kernel-manager/gxde-kernel-manager_1.0.0-1_mips64el.deb
+Size: 57200
+MD5sum: 19057a67936db8a78a77ffef1610c4a0
+SHA1: f89a1e351b78d0768f2a0507039d20acf3072663
+SHA256: 6b807f62ce1875a174169043980572e778d1fb8f009d22c889576d5572c26199
+SHA512: 9199a1405371f6b1182c363d05682c111753da248961471398c8efa8fa9cac8608ff4a644914d52361afbec541159db495c65ab59d13a8ba2d0dc6f1c7ebd7a2
+Homepage: https://gitee.com/GXDE-OS/gxde-kernel-manager
+Description: GXDE 内核管理器
+
+Package: gxde-kernel-manager
+Architecture: arm64
+Version: 1.0.0-1
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 212
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libgl1, libqt5core5a (>= 5.7.0), libqt5gui5 (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5)
+Filename: ./g/gxde-kernel-manager/gxde-kernel-manager_1.0.0-1_arm64.deb
+Size: 315780
+MD5sum: 465274f24da2da08c25edf35b24b5e91
+SHA1: 04808f4c1c85f0d5173bf47eec64b2bd9bd0aa9a
+SHA256: ecf056e754d5b01a9ddcf996112f5c8412035d9b40b2817aff606fdbc9ec87f5
+SHA512: 52f864bab7ab5a33fdbf7c805afa9ebcfdea908e53c2f14d76edefbed2a19bbab139eeb6c6186198c8f57225c933ad535fa92ea171043b808a064acf4a168b27
+Homepage: https://gitee.com/GXDE-OS/gxde-kernel-manager
+Description: GXDE 内核管理器
+
 Package: linux-headers-6.6.21-amd64-desktop-hwe
 Architecture: amd64
 Version: 23.01.00.23

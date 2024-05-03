@@ -1,0 +1,17 @@
+Package: gxde-kernel-manager
+Architecture: loong64
+Version: 1.0.0-1
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 223
+Depends: libc6 (>= 2.37), libgcc-s1 (>= 3.0), libgl1, libqt5core5a (>= 5.7.0), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libqtermwidget5-0 (>= 0.8.0), libstdc++6 (>= 5)
+Filename: ./g/gxde-kernel-manager/gxde-kernel-manager_1.0.0-1_loong64.deb
+Size: 55656
+MD5sum: d8cb1a144e9311197f386a7481d605eb
+SHA1: 1dffdcfd20fe8a246feb3bcf0603cde9bb1c0a5c
+SHA256: 8c45a8183e20b85d3fdd50527da4c52ca429cb70d3f66860cc22a180e9bd102d
+SHA512: 0a8ec02584aa284ed7c01dcd255ed911ea21151303c1308aa37fb1e575958020b5201530e0625cc71bd252e81ca6f67b3bb804b3c763c9d7636ef3862a47d6e3
+Homepage: https://gitee.com/GXDE-OS/gxde-kernel-manager
+Description: GXDE 内核管理器
+

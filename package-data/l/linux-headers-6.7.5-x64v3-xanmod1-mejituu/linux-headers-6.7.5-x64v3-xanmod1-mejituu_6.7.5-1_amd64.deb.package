@@ -1,0 +1,20 @@
+Package: linux-headers-6.7.5-x64v3-xanmod1-mejituu
+Architecture: amd64
+Version: 6.7.5-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@Mejituu>
+Installed-Size: 55761
+Filename: ./l/linux-headers-6.7.5-x64v3-xanmod1-mejituu/linux-headers-6.7.5-x64v3-xanmod1-mejituu_6.7.5-1_amd64.deb
+Size: 9423068
+MD5sum: bedc4bfd1fab6340669d195bcf6a0cf9
+SHA1: 3b27cfaa9f43e7e4459db12fd3e5be938bdf0e87
+SHA256: 757a85e51e38d2cbd5911833d402669661964aa3a2df83a52d4515a164d586ff
+SHA512: 5f0f85aa242d5b70b0c534e9a7ceaa551e780c98a01e67dba837108ba5a47442ec57ee5057dde7c470241f1a2dc97165a5414951be6edd396290ee494f5159ed
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.7.5-x64v3-xanmod1-mejituu on amd64
+ This package provides kernel header files for 6.7.5-x64v3-xanmod1-mejituu on amd64
+ .
+ This is useful for people who need to build external modules
+

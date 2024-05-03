@@ -1,0 +1,19 @@
+Package: linux-image-6.7.9-x64v3-xanmod1-mejituu
+Architecture: amd64
+Version: 6.7.9-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@Mejituu>
+Installed-Size: 113241
+Filename: ./l/linux-image-6.7.9-x64v3-xanmod1-mejituu/linux-image-6.7.9-x64v3-xanmod1-mejituu_6.7.9-1_amd64.deb
+Size: 101110840
+MD5sum: 3293aaf01cbb598799dc70c2963cd406
+SHA1: eed86637c03578e8305f384c4c3999408acb8c75
+SHA256: a479aeb10367425f068ded8a022ff3a3270bc792fea85abe294a8d8eff5e17a9
+SHA512: aef968aaa0e0c20fe60c65f3a466112e32e00d7dbf7bde333f74898cfe3bd368a38bc22fade9d893fe99ecf72ba8db5e733372f24dd79e8642d64639603f594b
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.7.9-x64v3-xanmod1-mejituu
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.7.9-x64v3-xanmod1-mejituu.
+

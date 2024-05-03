@@ -1,0 +1,19 @@
+Package: linux-image-6.6.15-x64v3-xanmod1-mejituu
+Architecture: amd64
+Version: 6.6.15-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@Mejituu>
+Installed-Size: 111754
+Filename: ./l/linux-image-6.6.15-x64v3-xanmod1-mejituu/linux-image-6.6.15-x64v3-xanmod1-mejituu_6.6.15-1_amd64.deb
+Size: 99695788
+MD5sum: 41f10b3d486eef8f6fb1d79149c6a6e4
+SHA1: e457a878dd72a3c45b85ff95b2fee9150f3b9c87
+SHA256: c67a32d64dc160f56dc6e240f55f354d38e48fc3b918e94ae3070c032c248294
+SHA512: b4446250b6b4ab85982967dc72a4007efd1f577427c84783a4651b5ab2b3cb1846d34e3c227319646dfb83d1762907375b22d0ab3377592279eedff9bc9791f7
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.6.15-x64v3-xanmod1-mejituu
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.6.15-x64v3-xanmod1-mejituu.
+

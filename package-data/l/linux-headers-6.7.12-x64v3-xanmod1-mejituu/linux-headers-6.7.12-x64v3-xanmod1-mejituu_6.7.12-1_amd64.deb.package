@@ -1,0 +1,20 @@
+Package: linux-headers-6.7.12-x64v3-xanmod1-mejituu
+Architecture: amd64
+Version: 6.7.12-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@Mejituu>
+Installed-Size: 55797
+Filename: ./l/linux-headers-6.7.12-x64v3-xanmod1-mejituu/linux-headers-6.7.12-x64v3-xanmod1-mejituu_6.7.12-1_amd64.deb
+Size: 9428908
+MD5sum: e5dc38c7973394d2a9730a1b17dfac32
+SHA1: 5525890b15015189d608bc5b7709019d6be789b6
+SHA256: 27434314af69474b68adf0a0ac3fb0555539cc416e12efce9634f806f81c11c2
+SHA512: 059230428084cae55ab71108e5c1ea8222846ee26b46e6f4f2cd33181ec37e5d44166e5fc08b5c5d30f6d585bbe6fdc7daccccbc9d71e1634a8d9bde51a2ba39
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.7.12-x64v3-xanmod1-mejituu on amd64
+ This package provides kernel header files for 6.7.12-x64v3-xanmod1-mejituu on amd64
+ .
+ This is useful for people who need to build external modules
+

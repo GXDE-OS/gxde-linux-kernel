@@ -1,0 +1,20 @@
+Package: linux-headers-6.8.4-x64v3-xanmod1-mejituu
+Architecture: amd64
+Version: 6.8.4-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@Mejituu>
+Installed-Size: 54405
+Filename: ./l/linux-headers-6.8.4-x64v3-xanmod1-mejituu/linux-headers-6.8.4-x64v3-xanmod1-mejituu_6.8.4-1_amd64.deb
+Size: 9487888
+MD5sum: dd9e4e098aa1f2dc6cb37325605d55b5
+SHA1: c6472e55f68f24e2a1369dee052628408d8d08c0
+SHA256: 85de93f9d96f2d7c0f4e3e3575f8a2d6aeb65920a4bce999671627280981fff0
+SHA512: 23a9fdbcb7a8ce08853e11aad591fc39aad179f5eda541778c28dab0be0cfc5ee4d8e713d62b3d1764fd870156b471455d5e345ed50002e13a6f6565a0696427
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.8.4-x64v3-xanmod1-mejituu on amd64
+ This package provides kernel header files for 6.8.4-x64v3-xanmod1-mejituu on amd64
+ .
+ This is useful for people who need to build external modules
+

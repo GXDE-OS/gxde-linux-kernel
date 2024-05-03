@@ -1,0 +1,19 @@
+Package: linux-image-6.7.12-x64v3-xanmod1-mejituu
+Architecture: amd64
+Version: 6.7.12-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@Mejituu>
+Installed-Size: 113360
+Filename: ./l/linux-image-6.7.12-x64v3-xanmod1-mejituu/linux-image-6.7.12-x64v3-xanmod1-mejituu_6.7.12-1_amd64.deb
+Size: 101222892
+MD5sum: 12d7eb13c8c91950a6ef47b13930f7dc
+SHA1: 1db577370187aa1a3f8538e71bafde37996a3ec6
+SHA256: c33c882a5f4b6197f431ed90cf38fa77ee645cc75511eb342d4d12111380f60f
+SHA512: f195c1a5be0fcd61a80237e60a19d75eeac6426cd342f78d36e216b6e5f6211c0dbd881b0c3c1ff96903be8af9e1f089c63941378cfdea55c5ff07be9552e566
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.7.12-x64v3-xanmod1-mejituu
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.7.12-x64v3-xanmod1-mejituu.
+

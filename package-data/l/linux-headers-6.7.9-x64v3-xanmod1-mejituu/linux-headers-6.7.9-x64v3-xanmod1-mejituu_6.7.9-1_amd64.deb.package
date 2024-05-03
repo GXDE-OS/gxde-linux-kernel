@@ -1,0 +1,20 @@
+Package: linux-headers-6.7.9-x64v3-xanmod1-mejituu
+Architecture: amd64
+Version: 6.7.9-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@Mejituu>
+Installed-Size: 55766
+Filename: ./l/linux-headers-6.7.9-x64v3-xanmod1-mejituu/linux-headers-6.7.9-x64v3-xanmod1-mejituu_6.7.9-1_amd64.deb
+Size: 9424148
+MD5sum: 8ed953543aa7b94352505767c627e94d
+SHA1: 041e794ffbea161640cd32e02b206185ff3f01f8
+SHA256: 89ac0fc1a9192c8972527a14707cd2c2faee2cbc3220d60a178150cf94e72a42
+SHA512: c2b1f23d6ff7ddd67526132114ed00da13ccdc27c8c34e920b6d95a9d7a746553fe665282588140d7e6366e24683a9f48362daaf5e53615fa2f608fcdf75d86c
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.7.9-x64v3-xanmod1-mejituu on amd64
+ This package provides kernel header files for 6.7.9-x64v3-xanmod1-mejituu on amd64
+ .
+ This is useful for people who need to build external modules
+

@@ -1,0 +1,19 @@
+Package: linux-image-6.8.8-x64v3-xanmod1-mejituu
+Architecture: amd64
+Version: 6.8.8-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@Mejituu>
+Installed-Size: 109846
+Filename: ./l/linux-image-6.8.8-x64v3-xanmod1-mejituu/linux-image-6.8.8-x64v3-xanmod1-mejituu_6.8.8-1_amd64.deb
+Size: 98401552
+MD5sum: cdcce1adb0f3b3708ed610bab9b88baf
+SHA1: 0ee66bb3d125ce7adcda353b2a78b82d098be176
+SHA256: 09eaccbc7414aa0f3d105d5ecc7a022ac7930076359e20d9b8db4ddc85ef6c2c
+SHA512: 076db27f48455b4e08f5658d32487d8960386e1c805c63e0682a259200e9b5208cc8039c1b541b50b306cbe6f4d6c5d4077d5ef49efdb70ed66490b269dcfa85
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.8.8-x64v3-xanmod1-mejituu
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.8.8-x64v3-xanmod1-mejituu.
+

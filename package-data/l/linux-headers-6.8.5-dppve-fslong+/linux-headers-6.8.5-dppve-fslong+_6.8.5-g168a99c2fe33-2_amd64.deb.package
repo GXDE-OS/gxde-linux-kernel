@@ -1,0 +1,20 @@
+Package: linux-headers-6.8.5-dppve-fslong+
+Architecture: amd64
+Version: 6.8.5-g168a99c2fe33-2
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: dxy <dxy@dxy-PC>
+Installed-Size: 54553
+Filename: ./l/linux-headers-6.8.5-dppve-fslong+/linux-headers-6.8.5-dppve-fslong+_6.8.5-g168a99c2fe33-2_amd64.deb
+Size: 9460396
+MD5sum: e8696c591708ecb363958856a2c51f11
+SHA1: 8a75cc8bd419f02c8bd4ef4d571b70319ffb287d
+SHA256: ce81020ef351011415f150fc598d38a3b2c46982eaca24c4918d6072ec3bef0a
+SHA512: c49e6553d0dbab273145a035c2ca7fc05e8bb6ebd488f67173add19ca5ca2ee5c5996dbf267971d3940861c0e448f3da72bc4003863b379a37246212a65cbfa9
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.8.5-dppve-fslong+ on amd64
+ This package provides kernel header files for 6.8.5-dppve-fslong+ on amd64
+ .
+ This is useful for people who need to build external modules
+

@@ -1,0 +1,19 @@
+Package: linux-image-6.8.5-dppve-fslong+
+Architecture: amd64
+Version: 6.8.5-g168a99c2fe33-2
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: dxy <dxy@dxy-PC>
+Installed-Size: 501641
+Filename: ./l/linux-image-6.8.5-dppve-fslong+/linux-image-6.8.5-dppve-fslong+_6.8.5-g168a99c2fe33-2_amd64.deb
+Size: 89121784
+MD5sum: 703ecddc039b7ba99130f12e971cbaf5
+SHA1: 3f9c1c6a37ad07c26351c6d224bf549e0bd556a1
+SHA256: 7dd1e99d45ca4219dceb5e4ddaf7bb1a583ad42b6e3d7ad83e70be6bd4be03f8
+SHA512: af9e447f57c6e34acfc1c1e0dfb34a96ee84929d457122199eaa245a4b4f85063dc094230e19525fc8ba9ed6f5cbea39b6168148921d26e4ce3c87e60e1ca634
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.8.5-dppve-fslong+
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.8.5-dppve-fslong+.
+

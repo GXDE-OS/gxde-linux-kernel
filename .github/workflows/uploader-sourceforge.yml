@@ -1,0 +1,26 @@
+name: Uploader Sourceforge
+run-name: ${{ github.actor }} Uploader Sourceforge
+on:
+  workflow_dispatch:
+  push:
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Data
+        run: |
+          sudo apt update
+          sudo apt install git sshpass rsync -y
+          cd ~
+          git clone https://github.com/GXDE-OS/gxde-linux-kernel --depth=1
+
+      - name: Upload Data
+        env: 
+          SOURCEFORGEPASSWORD: ${{ secrets.SOURCEFORGEPASSWORD }}
+          SOURCEFORGEUSER: ${{ secrets.SOURCEFORGEUSER }}
+        run: |
+          sshpass -p "$SOURCEFORGEPASSWORD" rsync -avP -e ssh ~/gxde-linux-kernel/* $SOURCEFORGEUSER@frs.sourceforge.net:/home/frs/project/gxde-kernel-manager/kernel
+        
+
+      
+    

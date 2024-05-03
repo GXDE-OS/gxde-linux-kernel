@@ -234,6 +234,26 @@ Description: Linux kernel, version 6.6.21-amd64-desktop-hwe
  This package contains the Linux kernel, modules and corresponding other
  files, version: 6.6.21-amd64-desktop-hwe.
 
+Package: linux-headers-6.9.0-rc6-loong64-desktop
+Architecture: loong64
+Version: 6.9.0-rc6-gd24fb9851e0e-2
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: deepin <deepin@deepinci-loongarch2>
+Installed-Size: 52545
+Filename: ./l/linux-headers-6.9.0-rc6-loong64-desktop/linux-headers-6.9.0-rc6-loong64-desktop_6.9.0-rc6-gd24fb9851e0e-2_loong64.deb
+Size: 8865492
+MD5sum: d68e8abc66c91284a1ab1e0f12fe62fc
+SHA1: bfbf672764e0f29adce42eb38df10f0f68597a7d
+SHA256: 09eef0f1caff530b7e37c78f0ee78b2f50fe0fee4dc0eeb472f347d78b48151b
+SHA512: c3e9df059cd368de753bc1a1a357078bb51d1849e370a38b0615d90b9e5209841e76fe8f9853537354b32fc33c75cc8624a917662735df9a0b1a5391dcbf4674
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.9.0-rc6-loong64-desktop on loong64
+ This package provides kernel header files for 6.9.0-rc6-loong64-desktop on loong64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-5.15.77-amd64-desktop
 Architecture: amd64
 Version: 5.15.77-amd64-desktop-1
@@ -335,6 +355,25 @@ Description: Linux kernel headers for 6.8.7-dppve-fslong on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-image-5.4.70-amd64-desktop
+Architecture: amd64
+Version: 5.4.70-amd64-desktop-2
+Priority: optional
+Section: kernel
+Source: linux-5.4.70-amd64-desktop
+Maintainer: deepin <deepin@deepin-PC>
+Installed-Size: 261382
+Filename: ./l/linux-image-5.4.70-amd64-desktop/linux-image-5.4.70-amd64-desktop_5.4.70-amd64-desktop-2_amd64.deb
+Size: 61130572
+MD5sum: 99281b6408c748dc5ab68661c9814592
+SHA1: 4a4dc12e07501f5eabba051b8fae8a4a85666c52
+SHA256: f468ac720edb3eaf22d89f7a165385dc7a50b646a6625ae0307ff9ae666018c4
+SHA512: 0a7be3ea885cbcc89a749e684bad22ea384b1582f32188b03c2d88db29b1f62d498cc929ba5e3af8fba3ba8bb4d0de763addc44daf0edfbf99e7afa244f7aead
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 5.4.70-amd64-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.4.70-amd64-desktop.
+
 Package: linux-image-6.6.21-dppve-fslong
 Architecture: amd64
 Version: 6.6.21-1
@@ -412,6 +451,26 @@ Homepage: https://www.kernel.org/
 Description: Linux kernel, version 6.8.7-dppve-fslong
  This package contains the Linux kernel, modules and corresponding other
  files, version: 6.8.7-dppve-fslong.
+
+Package: linux-headers-5.4.70-amd64-desktop
+Architecture: amd64
+Version: 5.4.70-amd64-desktop-2
+Priority: optional
+Section: kernel
+Source: linux-5.4.70-amd64-desktop
+Maintainer: deepin <deepin@deepin-PC>
+Installed-Size: 76372
+Filename: ./l/linux-headers-5.4.70-amd64-desktop/linux-headers-5.4.70-amd64-desktop_5.4.70-amd64-desktop-2_amd64.deb
+Size: 11511716
+MD5sum: a42a69240c55f8700c69c6e1d9e24037
+SHA1: 2d78dd2bc07ff1b7f3de23d2f4b2a26e2db7e70c
+SHA256: d4805bffe69191f0a6fa19a3dbcff8593dcb6570fecde65db29738bca42adeab
+SHA512: fca4908c1cb80089c4269e13c3efacc7ab448ff571fcfdddcc608dfd37db1b0c2ef8e7e59698b679b55dc2b4ecb23146f7d353917f4d711e3f91c98a7e3b6a39
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 5.4.70-amd64-desktop on amd64
+ This package provides kernel header files for 5.4.70-amd64-desktop on amd64
+ .
+ This is useful for people who need to build external modules
 
 Package: linux-headers-6.6.25-amd64-desktop-hwe
 Architecture: amd64
@@ -532,6 +591,26 @@ SHA512: 1cf3bee1801094be74e0cd7dbdd2b57ca61b2eea074335e334cf713ebeb98c0f7e2ec1ea
 Homepage: http://www.kernel.org/
 Description: Linux kernel firmware, version 4.4.32-deepin-loongson-3-generic
  This package contains firmware from the Linux kernel, version 4.4.32-deepin-loongson-3-generic.
+
+Package: linux-image-loongson-3
+Architecture: mips64el
+Version: 4.19+167+rc6.lnd.1
+Priority: optional
+Section: kernel
+Source: linux-latest (167+rc6.lnd.1)
+Maintainer: Debian Kernel Team <debian-kernel@lists.debian.org>
+Installed-Size: 18
+Provides: linux-latest-modules-4.19.0-11-loongson-3
+Depends: linux-image-4.19.0-11-loongson-3
+Filename: ./l/linux-image-loongson-3/linux-image-loongson-3_4.19+167+rc6.lnd.1_mips64el.deb
+Size: 8208
+MD5sum: 78bcbf73c71b3bf7f8c7c1faeca03f82
+SHA1: 6cf37a95da108b439698756db9b89b448aefec85
+SHA256: 76266dca38f6661dc4e3d24a760492f774a603abfd1d543e68c45473349d1f47
+SHA512: 7534821ba1961146bc731fca24706f71d988c21c02ae9465f7342fc8c11995777dff962e206c661ca4a4917901ffdccd8cad1107dc6ca6f572af24d8ba0fa0b3
+Description: Linux for Loongson 3A/3B (meta-package)
+ This package depends on the latest Linux kernel and modules for use on
+ Loongson 3A or 3B based systems (e.g.  from Loongson or Lemote).
 
 Package: linux-headers-6.1.32-amd64-desktop-hwe
 Architecture: amd64
@@ -766,6 +845,25 @@ Description: Linux kernel headers for 6.7.0-loong64-desktop on loong64
  This package provides kernel header files for 6.7.0-loong64-desktop on loong64
  .
  This is useful for people who need to build external modules
+
+Package: linux-image-6.9.0-rc6-loong64-desktop
+Architecture: loong64
+Version: 6.9.0-rc6-gd24fb9851e0e-2
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: deepin <deepin@deepinci-loongarch2>
+Installed-Size: 60540
+Filename: ./l/linux-image-6.9.0-rc6-loong64-desktop/linux-image-6.9.0-rc6-loong64-desktop_6.9.0-rc6-gd24fb9851e0e-2_loong64.deb
+Size: 51615476
+MD5sum: 3a24b18d7e194596703ae72cde4cdb56
+SHA1: 20fe520e9a8c7c9c44bf2a056f9becdfb412dcad
+SHA256: 0a8d4ed2ce52b7eb7315f40e2dd3f300c2da9bf2e7dce73fb66118a49539d858
+SHA512: 244a669a7c79b270008b1e0e451f65e3e3b17831ed8e82d21f06029975c5e91c473e3d0d5d702cae7a8c26d7ab3139ec53e48a8017f6adae3aae2bd4ff05ac6c
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.9.0-rc6-loong64-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.9.0-rc6-loong64-desktop.
 
 Package: linux-headers-deepin-hwe-amd64
 Architecture: amd64

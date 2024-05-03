@@ -1,0 +1,20 @@
+Package: linux-headers-6.9.0-rc6-loong64-desktop
+Architecture: loong64
+Version: 6.9.0-rc6-gd24fb9851e0e-2
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: deepin <deepin@deepinci-loongarch2>
+Installed-Size: 52545
+Filename: ./l/linux-headers-6.9.0-rc6-loong64-desktop/linux-headers-6.9.0-rc6-loong64-desktop_6.9.0-rc6-gd24fb9851e0e-2_loong64.deb
+Size: 8865492
+MD5sum: d68e8abc66c91284a1ab1e0f12fe62fc
+SHA1: bfbf672764e0f29adce42eb38df10f0f68597a7d
+SHA256: 09eef0f1caff530b7e37c78f0ee78b2f50fe0fee4dc0eeb472f347d78b48151b
+SHA512: c3e9df059cd368de753bc1a1a357078bb51d1849e370a38b0615d90b9e5209841e76fe8f9853537354b32fc33c75cc8624a917662735df9a0b1a5391dcbf4674
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.9.0-rc6-loong64-desktop on loong64
+ This package provides kernel header files for 6.9.0-rc6-loong64-desktop on loong64
+ .
+ This is useful for people who need to build external modules
+

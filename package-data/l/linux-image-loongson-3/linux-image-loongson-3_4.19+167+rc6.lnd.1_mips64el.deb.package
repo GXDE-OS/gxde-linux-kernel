@@ -1,0 +1,20 @@
+Package: linux-image-loongson-3
+Architecture: mips64el
+Version: 4.19+167+rc6.lnd.1
+Priority: optional
+Section: kernel
+Source: linux-latest (167+rc6.lnd.1)
+Maintainer: Debian Kernel Team <debian-kernel@lists.debian.org>
+Installed-Size: 18
+Provides: linux-latest-modules-4.19.0-11-loongson-3
+Depends: linux-image-4.19.0-11-loongson-3
+Filename: ./l/linux-image-loongson-3/linux-image-loongson-3_4.19+167+rc6.lnd.1_mips64el.deb
+Size: 8208
+MD5sum: 78bcbf73c71b3bf7f8c7c1faeca03f82
+SHA1: 6cf37a95da108b439698756db9b89b448aefec85
+SHA256: 76266dca38f6661dc4e3d24a760492f774a603abfd1d543e68c45473349d1f47
+SHA512: 7534821ba1961146bc731fca24706f71d988c21c02ae9465f7342fc8c11995777dff962e206c661ca4a4917901ffdccd8cad1107dc6ca6f572af24d8ba0fa0b3
+Description: Linux for Loongson 3A/3B (meta-package)
+ This package depends on the latest Linux kernel and modules for use on
+ Loongson 3A or 3B based systems (e.g.  from Loongson or Lemote).
+

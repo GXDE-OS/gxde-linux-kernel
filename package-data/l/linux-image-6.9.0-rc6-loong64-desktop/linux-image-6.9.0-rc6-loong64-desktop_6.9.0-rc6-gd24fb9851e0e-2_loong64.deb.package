@@ -1,0 +1,19 @@
+Package: linux-image-6.9.0-rc6-loong64-desktop
+Architecture: loong64
+Version: 6.9.0-rc6-gd24fb9851e0e-2
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: deepin <deepin@deepinci-loongarch2>
+Installed-Size: 60540
+Filename: ./l/linux-image-6.9.0-rc6-loong64-desktop/linux-image-6.9.0-rc6-loong64-desktop_6.9.0-rc6-gd24fb9851e0e-2_loong64.deb
+Size: 51615476
+MD5sum: 3a24b18d7e194596703ae72cde4cdb56
+SHA1: 20fe520e9a8c7c9c44bf2a056f9becdfb412dcad
+SHA256: 0a8d4ed2ce52b7eb7315f40e2dd3f300c2da9bf2e7dce73fb66118a49539d858
+SHA512: 244a669a7c79b270008b1e0e451f65e3e3b17831ed8e82d21f06029975c5e91c473e3d0d5d702cae7a8c26d7ab3139ec53e48a8017f6adae3aae2bd4ff05ac6c
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.9.0-rc6-loong64-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.9.0-rc6-loong64-desktop.
+

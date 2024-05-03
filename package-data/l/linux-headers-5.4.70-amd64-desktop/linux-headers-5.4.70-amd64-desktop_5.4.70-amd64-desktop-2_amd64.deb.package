@@ -1,0 +1,20 @@
+Package: linux-headers-5.4.70-amd64-desktop
+Architecture: amd64
+Version: 5.4.70-amd64-desktop-2
+Priority: optional
+Section: kernel
+Source: linux-5.4.70-amd64-desktop
+Maintainer: deepin <deepin@deepin-PC>
+Installed-Size: 76372
+Filename: ./l/linux-headers-5.4.70-amd64-desktop/linux-headers-5.4.70-amd64-desktop_5.4.70-amd64-desktop-2_amd64.deb
+Size: 11511716
+MD5sum: a42a69240c55f8700c69c6e1d9e24037
+SHA1: 2d78dd2bc07ff1b7f3de23d2f4b2a26e2db7e70c
+SHA256: d4805bffe69191f0a6fa19a3dbcff8593dcb6570fecde65db29738bca42adeab
+SHA512: fca4908c1cb80089c4269e13c3efacc7ab448ff571fcfdddcc608dfd37db1b0c2ef8e7e59698b679b55dc2b4ecb23146f7d353917f4d711e3f91c98a7e3b6a39
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 5.4.70-amd64-desktop on amd64
+ This package provides kernel header files for 5.4.70-amd64-desktop on amd64
+ .
+ This is useful for people who need to build external modules
+

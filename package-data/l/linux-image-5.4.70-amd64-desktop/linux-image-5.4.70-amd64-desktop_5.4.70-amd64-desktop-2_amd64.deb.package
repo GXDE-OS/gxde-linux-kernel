@@ -1,0 +1,19 @@
+Package: linux-image-5.4.70-amd64-desktop
+Architecture: amd64
+Version: 5.4.70-amd64-desktop-2
+Priority: optional
+Section: kernel
+Source: linux-5.4.70-amd64-desktop
+Maintainer: deepin <deepin@deepin-PC>
+Installed-Size: 261382
+Filename: ./l/linux-image-5.4.70-amd64-desktop/linux-image-5.4.70-amd64-desktop_5.4.70-amd64-desktop-2_amd64.deb
+Size: 61130572
+MD5sum: 99281b6408c748dc5ab68661c9814592
+SHA1: 4a4dc12e07501f5eabba051b8fae8a4a85666c52
+SHA256: f468ac720edb3eaf22d89f7a165385dc7a50b646a6625ae0307ff9ae666018c4
+SHA512: 0a7be3ea885cbcc89a749e684bad22ea384b1582f32188b03c2d88db29b1f62d498cc929ba5e3af8fba3ba8bb4d0de763addc44daf0edfbf99e7afa244f7aead
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 5.4.70-amd64-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.4.70-amd64-desktop.
+

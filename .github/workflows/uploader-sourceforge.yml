@@ -18,7 +18,9 @@ jobs:
         env: 
           SOURCEFORGEPASSWORD: ${{ secrets.SOURCEFORGEPASSWORD }}
           SOURCEFORGEUSER: ${{ secrets.SOURCEFORGEUSER }}
+          EMAIL: ${{ secrets.EMAIL }}
         run: |
+          ssh-keygen -t rsa -C "$EMAIL"
           sshpass -p "$SOURCEFORGEPASSWORD" rsync -avP -e ssh ~/gxde-linux-kernel/* $SOURCEFORGEUSER@frs.sourceforge.net:/home/frs/project/gxde-kernel-manager/kernel
         
 

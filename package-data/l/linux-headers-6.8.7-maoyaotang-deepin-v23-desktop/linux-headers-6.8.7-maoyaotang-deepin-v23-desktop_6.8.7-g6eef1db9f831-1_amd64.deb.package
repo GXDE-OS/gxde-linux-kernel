@@ -1,0 +1,20 @@
+Package: linux-headers-6.8.7-maoyaotang-deepin-v23-desktop
+Architecture: amd64
+Version: 6.8.7-g6eef1db9f831-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@localhost>
+Installed-Size: 54031
+Filename: ./l/linux-headers-6.8.7-maoyaotang-deepin-v23-desktop/linux-headers-6.8.7-maoyaotang-deepin-v23-desktop_6.8.7-g6eef1db9f831-1_amd64.deb
+Size: 9278596
+MD5sum: 6b3997ee8bf3fe9c7b3ff46155a3b035
+SHA1: 95e1ef3ba9167ef229365afa78a78ace5ee628fc
+SHA256: e9b3580cbd8e48b1befcd461b052ec9c1b510c2613a67750226c04da4478986b
+SHA512: 5c454c9e82d6b8f3508c5edce08f21624a20c0a8428ba19d01bb7190d8afc6fbf3a8cce0d805fdaaf5fede60e9c882534570810f42b676e2e890f4a838b9e73e
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 6.8.7-maoyaotang-deepin-v23-desktop on amd64
+ This package provides kernel header files for 6.8.7-maoyaotang-deepin-v23-desktop on amd64
+ .
+ This is useful for people who need to build external modules
+

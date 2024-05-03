@@ -1,0 +1,19 @@
+Package: linux-image-6.8.7-maoyaotang-deepin-v23-desktop
+Architecture: amd64
+Version: 6.8.7-g6eef1db9f831-1
+Priority: optional
+Section: kernel
+Source: linux-upstream
+Maintainer: root <root@localhost>
+Installed-Size: 470730
+Filename: ./l/linux-image-6.8.7-maoyaotang-deepin-v23-desktop/linux-image-6.8.7-maoyaotang-deepin-v23-desktop_6.8.7-g6eef1db9f831-1_amd64.deb
+Size: 82534016
+MD5sum: 6b34529913d3d867a2f959810a962ca9
+SHA1: fe5f9d8c4b896f2ff6ae361c03380b07ad86758d
+SHA256: 520c75756d2cb1b330ac35df5d04e778a7f0f51b2a455578125267fb6247f869
+SHA512: 703aa032949b8a1e62f10b41d3abf19241368ed1780b97754a11ab708009b8fd82279254ff0e23625f7a75de9607c5a09ecaa305b587b7342372fe5848a5fe13
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 6.8.7-maoyaotang-deepin-v23-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.8.7-maoyaotang-deepin-v23-desktop.
+
